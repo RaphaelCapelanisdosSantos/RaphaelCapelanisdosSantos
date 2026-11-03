@@ -2,8 +2,6 @@
 ### GAME DEV C# CURSANDO DESENVOLVIMENTO DE SISTEMAS
 
 <div class="logos">
-  <img src="https://skillicons.dev/icons?i=unity,cs,html,css,js,github" alt="Logos" />
+  <img src="https://skillicons.dev/icons?i=unity,cs,html,css,js,arduino,git,github" alt="Logos" />
 </div>
-
-<br />
 
